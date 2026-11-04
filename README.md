@@ -5,9 +5,9 @@
 <p align="center"><b>Documentação de requisitos do sistema GIZA: módulos, histórias de usuário, indicadores e NPS por cliente.</b></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MkDocs%20Material-0f2d22?style=flat-square" alt="MkDocs Material">
-  <img src="https://img.shields.io/badge/Requisitos-0f2d22?style=flat-square" alt="Requisitos">
-  <img src="https://img.shields.io/badge/NPS-0f2d22?style=flat-square" alt="NPS">
+  <img src="https://img.shields.io/badge/MkDocs%20Material-102a43?style=flat-square" alt="MkDocs Material">
+  <img src="https://img.shields.io/badge/Requisitos-102a43?style=flat-square" alt="Requisitos">
+  <img src="https://img.shields.io/badge/NPS-102a43?style=flat-square" alt="NPS">
 </p>
 
 **Sumário:** [Visão geral](#visão-geral) · [Estrutura](#estrutura) · [Começando](#começando) · [Deploy e operação](#deploy-e-operação) · [Contribuindo](#contribuindo) · [Segurança](#segurança) · [Mantenedores](#mantenedores)
