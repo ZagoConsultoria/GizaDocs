@@ -3,7 +3,7 @@
 ## Informações da Entrevista
 
 **Stakeholder**: Marcos Victor Gomes de Oliveira  
-**E-mail**: marcos.gomes@grupozago.com.br  
+**E-mail**: e-mail removido  
 **Data**: 02/09/2025, 15:58:28  
 **Contexto**: Primeira experiência da Zago com prospecção arqueológica
 
