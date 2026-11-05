@@ -133,7 +133,7 @@ Desenvolver um sistema integrado que:
 
 **Arlon Facyneck**
 
-- Email: arlon@grupozago.com.br
+- Email: e-mail removido
 - Data do levantamento: 18/08/2025
 - Responsável pelo processo atual de Due Diligence
 

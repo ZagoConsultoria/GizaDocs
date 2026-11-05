@@ -7,7 +7,7 @@
 - **Nota**: 10
   - **Data/Hora Início**: 8/5/25 10:11:24
   - **Data/Hora Conclusão**: 8/5/25 10:14:15
-  - **Usuário**: Bruna Ferrari (<bruna.ferrari@grupozago.com.br>)
+  - **Usuário**: Respondente 2 (e-mail removido)
   - **Programa**: Ruídos
   - **Motivo**: O app é fácil de usar e bastante útil em campo.
   - **Facilidade de Uso**: 5 (Concordo totalmente)
@@ -23,7 +23,7 @@
 - **Nota**: 9
   - **Data/Hora Início**: 8/5/25 10:14:20
   - **Data/Hora Conclusão**: 8/5/25 10:32:31
-  - **Usuário**: Bruna Ferrari (<bruna.ferrari@grupozago.com.br>)
+  - **Usuário**: Respondente 2 (e-mail removido)
   - **Programa**: Ruídos
   - **Motivo**: A visão analítica é informativa e útil
   - **Facilidade de Uso**: A navegação é totalmente intuitiva e organizada
@@ -39,7 +39,7 @@
 - **Nota**: 10
   - **Data/Hora Início**: 8/5/25 9:59:16
   - **Data/Hora Conclusão**: 8/5/25 10:01:57
-  - **Usuário**: Bruna Ferrari (<bruna.ferrari@grupozago.com.br>)
+  - **Usuário**: Respondente 2 (e-mail removido)
   - **Programa**: Emissões Atmosféricas
   - **Motivo**: O app contempla tudo que eu preciso coletar em campo, é bastante intuitivo e fácil de utilizar.
   - **Facilidade de Uso**: 5 (Concordo totalmente)
@@ -55,7 +55,7 @@
 - **Nota**: 8
   - **Data/Hora Início**: 8/5/25 10:02:02
   - **Data/Hora Conclusão**: 8/5/25 10:10:56
-  - **Usuário**: Bruna Ferrari (<bruna.ferrari@grupozago.com.br>)
+  - **Usuário**: Respondente 2 (e-mail removido)
   - **Programa**: Emissões Atmosféricas
   - **Motivo**: A visão analítica da GIZA é ótima e útil, e o design é agradável. Não é 10 porque algumas funcionalidades podem ser melhoradas.
   - **Facilidade de Uso**: Geralmente consigo navegar e encontrar as informações com facilidade
